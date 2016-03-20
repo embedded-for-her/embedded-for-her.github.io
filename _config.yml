@@ -1,69 +1,62 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://earthlord.github.io
+baseurl: /fembed-page/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Fembed
+email: p@earthlord.io
+description: "Fembed is a capacity building program in the field of embedded systems for women."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: fed136
-  secondary: fec503  
+  primary: B7ACC2
+  secondary: 4c177d
   secondary-dark: 333
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: WorkBench Projects
+  pic: WP.png
+  position: 
   social:
-    - title: twitter
-      url: #
+    - title: globe
+      url: http://workbenchprojects.com/
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://www.facebook.com/workbenchprojects/
+    - title: twitter
+      url: https://twitter.com/makewithWP
+    - title: maxcdn
+      url: http://www.meetup.com/Workbench-Projects/
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
+- name: IoTBLR
+  pic: IoTBLR.png
+  position: 
   social:
-    - title: twitter
-      url: #
+    - title: globe
+      url: http://iotblr.org/
     - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
+      url: https://www.facebook.com/groups/IoTBLR/
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://twitter.com/IoTBLR
+    - title: maxcdn
+      url: http://www.meetup.com/IoTBLR/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: 
   - title: facebook
     url:
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: 
   - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: 
   - title: github
-    url: http://github.com/jekyll
+    url: 
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line:
+  - line:
 
 # Build settings
 markdown: kramdown
