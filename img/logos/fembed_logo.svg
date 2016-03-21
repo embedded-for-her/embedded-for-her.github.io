@@ -28,7 +28,7 @@
      inkscape:cx="150.11309"
      inkscape:cy="-9.5469235"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="text2993"
      showgrid="true"
      showguides="false"
      fit-margin-top="1"
@@ -36,8 +36,8 @@
      fit-margin-right="1"
      fit-margin-bottom="1"
      inkscape:window-width="1920"
-     inkscape:window-height="1028"
-     inkscape:window-x="1920"
+     inkscape:window-height="1148"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
@@ -58,7 +58,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -67,31 +67,37 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-176.504,-300.98511)">
-    <text
-       xml:space="preserve"
+    <g
        style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#d35f5f;fill-opacity:1;stroke:none;font-family:Alex Brush;-inkscape-font-specification:Alex Brush"
-       x="223.24371"
-       y="343.23511"
-       id="text2987"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan2989"
-         x="223.24371"
-         y="343.23511"
-         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#d35f5f;font-family:Alex Brush;-inkscape-font-specification:Alex Brush"><tspan
-           style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#d35f5f;font-family:ISOCPEUR;-inkscape-font-specification:ISOCPEUR"
-           id="tspan2991">embed</tspan></tspan></text>
-    <text
-       xml:space="preserve"
+       id="text2987">
+      <path
+         d="m 237.68121,318.48511 c -1.70834,2e-5 -3.16667,0.60419 -4.375,1.8125 -1.20834,1.20835 -1.8125,2.66668 -1.8125,4.375 l 0,2.0625 12.375,0 0,-2.0625 c -2e-5,-1.70832 -0.60418,-3.16665 -1.8125,-4.375 -1.20835,-1.20831 -2.66668,-1.81248 -4.375,-1.8125 m -6.1875,12.375 0,4.125 c 0,1.125 0.40624,2.09375 1.21875,2.90625 0.81249,0.8125 1.78124,1.21875 2.90625,1.21875 l 10.3125,0 c 1.37498,0 2.06248,0.6875 2.0625,2.0625 -2e-5,1.375 -0.68752,2.0625 -2.0625,2.0625 l -10.3125,0 c -2.31251,0 -4.27084,-0.79167 -5.875,-2.375 -1.58333,-1.60417 -2.375,-3.5625 -2.375,-5.875 l 0,-10.3125 c 0,-2.85415 1,-5.28123 3,-7.28125 2.02083,-2.02081 4.45833,-3.03122 7.3125,-3.03125 2.89582,3e-5 5.33332,1.00003 7.3125,3 1.99998,1.97919 2.99998,4.41669 3,7.3125 l 0,6.1875 -16.5,0"
+         style="line-height:125%;fill:#d35f5f;font-family:ISOCPEUR;-inkscape-font-specification:ISOCPEUR"
+         id="path3000" />
+      <path
+         d="m 258.30621,314.36011 18.5625,0 c 2.31248,3e-5 4.26039,0.80211 5.84375,2.40625 1.60414,1.58336 2.40622,3.53127 2.40625,5.84375 l 0,18.5625 c -3e-5,1.375 -0.68753,2.0625 -2.0625,2.0625 -1.37503,0 -2.06253,-0.6875 -2.0625,-2.0625 l 0,-18.5625 c -3e-5,-1.16665 -0.39586,-2.14581 -1.1875,-2.9375 -0.79169,-0.79164 -1.77086,-1.18748 -2.9375,-1.1875 l -4.125,0 0,22.6875 c -2e-5,1.375 -0.68752,2.0625 -2.0625,2.0625 -1.37501,0 -2.06251,-0.6875 -2.0625,-2.0625 l 0,-22.6875 -8.25,0 0,22.6875 c 0,1.375 -0.6875,2.0625 -2.0625,2.0625 -1.375,0 -2.0625,-0.6875 -2.0625,-2.0625 l 0,-24.75 c 0,-1.37497 0.6875,-2.06247 2.0625,-2.0625"
+         style="line-height:125%;fill:#d35f5f;font-family:ISOCPEUR;-inkscape-font-specification:ISOCPEUR"
+         id="path3002" />
+      <path
+         d="m 313.99371,322.61011 0,12.375 c -2e-5,2.3125 -0.8021,4.27083 -2.40625,5.875 -1.58335,1.58333 -3.53127,2.375 -5.84375,2.375 l -10.3125,0 c -1.375,0 -2.0625,-0.6875 -2.0625,-2.0625 l 0,-37.125 c 0,-1.37496 0.6875,-2.06246 2.0625,-2.0625 1.375,4e-5 2.0625,0.68754 2.0625,2.0625 l 0,10.3125 8.25,0 c 3.20832,3e-5 5.59373,1.36461 7.15625,4.09375 0.72915,1.27085 1.09373,2.65627 1.09375,4.15625 m -8.25,-4.125 -8.25,0 0,20.625 8.25,0 c 1.14582,0 2.11457,-0.39583 2.90625,-1.1875 0.81248,-0.8125 1.21873,-1.79166 1.21875,-2.9375 l 0,-12.375 c -2e-5,-1.16665 -0.39585,-2.14581 -1.1875,-2.9375 -0.79168,-0.79164 -1.77085,-1.18748 -2.9375,-1.1875"
+         style="line-height:125%;fill:#d35f5f;font-family:ISOCPEUR;-inkscape-font-specification:ISOCPEUR"
+         id="path3004" />
+      <path
+         d="m 332.55621,318.48511 c -1.70834,2e-5 -3.16667,0.60419 -4.375,1.8125 -1.20834,1.20835 -1.8125,2.66668 -1.8125,4.375 l 0,2.0625 12.375,0 0,-2.0625 c -2e-5,-1.70832 -0.60418,-3.16665 -1.8125,-4.375 -1.20835,-1.20831 -2.66668,-1.81248 -4.375,-1.8125 m -6.1875,12.375 0,4.125 c 0,1.125 0.40624,2.09375 1.21875,2.90625 0.81249,0.8125 1.78124,1.21875 2.90625,1.21875 l 10.3125,0 c 1.37498,0 2.06248,0.6875 2.0625,2.0625 -2e-5,1.375 -0.68752,2.0625 -2.0625,2.0625 l -10.3125,0 c -2.31251,0 -4.27084,-0.79167 -5.875,-2.375 -1.58333,-1.60417 -2.375,-3.5625 -2.375,-5.875 l 0,-10.3125 c 0,-2.85415 1,-5.28123 3,-7.28125 2.02083,-2.02081 4.45833,-3.03122 7.3125,-3.03125 2.89582,3e-5 5.33332,1.00003 7.3125,3 1.99998,1.97919 2.99998,4.41669 3,7.3125 l 0,6.1875 -16.5,0"
+         style="line-height:125%;fill:#d35f5f;font-family:ISOCPEUR;-inkscape-font-specification:ISOCPEUR"
+         id="path3006" />
+      <path
+         d="m 351.11871,322.61011 c 0,-1.49998 0.36458,-2.8854 1.09375,-4.15625 1.5625,-2.72914 3.94791,-4.09372 7.15625,-4.09375 l 8.25,0 0,-10.3125 c -2e-5,-1.37496 0.68748,-2.06246 2.0625,-2.0625 1.37498,4e-5 2.06248,0.68754 2.0625,2.0625 l 0,37.125 c -2e-5,1.375 -0.68752,2.0625 -2.0625,2.0625 l -10.3125,0 c -2.31251,0 -4.27084,-0.79167 -5.875,-2.375 -1.58333,-1.60417 -2.375,-3.5625 -2.375,-5.875 l 0,-12.375 m 8.25,-4.125 c -1.14584,2e-5 -2.12501,0.40627 -2.9375,1.21875 -0.79167,0.79169 -1.1875,1.76044 -1.1875,2.90625 l 0,12.375 c 0,1.125 0.40624,2.09375 1.21875,2.90625 0.81249,0.8125 1.78124,1.21875 2.90625,1.21875 l 8.25,0 0,-20.625 -8.25,0"
+         style="line-height:125%;fill:#d35f5f;font-family:ISOCPEUR;-inkscape-font-specification:ISOCPEUR"
+         id="path3008" />
+    </g>
+    <g
        style="font-size:64px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#d35f5f;fill-opacity:1;stroke:none;font-family:Alex Brush;-inkscape-font-specification:Alex Brush Bold"
-       x="195"
-       y="342.36218"
-       id="text2993"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan2995"
-         x="195"
-         y="342.36218"
-         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#d35f5f;font-family:Alex Brush;-inkscape-font-specification:Alex Brush">f</tspan></text>
+       id="text2993">
+      <path
+         d="m 224.376,307.15418 c -3e-5,1.48804 -0.43203,2.23204 -1.296,2.232 -0.24003,4e-5 -0.48003,-0.19196 -0.72,-0.576 -0.43203,-0.76796 -1.15203,-1.15196 -2.16,-1.152 -2.20802,4e-5 -4.27202,1.58404 -6.192,4.752 -0.38402,0.62403 -1.58402,2.88003 -3.6,6.768 l 0.864,0 c 5.23198,3e-5 8.71198,-0.072 10.44,-0.216 0.19197,0.048 0.28797,0.14403 0.288,0.288 -3e-5,0.38403 -1.70403,0.91202 -5.112,1.584 -3.21602,0.52802 -5.85602,0.98402 -7.92,1.368 -1.48801,3.07202 -3.28801,6.72002 -5.4,10.944 -4.32,8.064 -7.176,13.08 -8.568,15.048 -4.176,5.95199 -8.25599,8.92799 -12.24,8.928 -1.39199,-1e-5 -2.59199,-0.60001 -3.6,-1.8 -1.05598,-1.15201 -1.60798,-2.44801 -1.656,-3.888 0.14402,-0.57601 0.36002,-0.86401 0.648,-0.864 0.14402,-10e-6 0.24002,0.16799 0.288,0.504 0.28802,1.24799 0.76802,2.20799 1.44,2.88 0.67201,0.67199 1.36801,1.00799 2.088,1.008 4.08001,-10e-6 7.80001,-2.52001 11.16,-7.56 1.92,-2.88 4.536,-8.06399 7.848,-15.552 l 3.888,-9.36 c -4.80001,-0.048 -7.2,-0.62398 -7.2,-1.728 0,-0.47998 0.216,-0.88797 0.648,-1.224 0.48,-0.33597 0.888,-0.50397 1.224,-0.504 l 6.768,0.144 c 4.70398,-10.46396 9.02398,-15.69596 12.96,-15.696 1.48797,4e-5 2.99997,0.72004 4.536,2.16 0.38397,0.38404 0.57597,0.88804 0.576,1.512"
+         style="font-size:72px;font-weight:normal;line-height:125%;fill:#d35f5f;font-family:Alex Brush;-inkscape-font-specification:Alex Brush"
+         id="path2997" />
+    </g>
   </g>
 </svg>
