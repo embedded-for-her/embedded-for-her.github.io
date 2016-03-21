@@ -682,15 +682,18 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url(img/map-image.png);
+    background-image: url(img/tweed.png);
     background-position: center;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
 }
 
 section#contact .section-heading {
     color: #fff;
 }
 
+section#contact .section-subheading {
+    color: #fff;
+}
 
 section#contact .service-heading {
     color: #fff;
