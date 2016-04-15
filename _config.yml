@@ -1,10 +1,10 @@
 url: https://earthlord.github.io
-baseurl: /fembed-page/
+baseurl: /embeddedforher
 
 # Site settings
-title: Fembed
+title: Embedded for Her
 email: p@earthlord.io
-description: "Fembed is a capacity building program in the field of embedded systems for women."
+description: "Embedded for Her is a skill development program in the field of embedded systems for women."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
