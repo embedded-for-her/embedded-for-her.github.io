@@ -165,6 +165,10 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.color.primary }};
 }
 
+.page-title {
+    text-shadow: 0px 0px 60px #000000;
+}
+
 .btn-xl .badge {
     color: #{{ site.color.primary }};
     background-color: #fff;
