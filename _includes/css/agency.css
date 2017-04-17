@@ -382,6 +382,11 @@ section#program .program-w {
     align: center;
 }
 
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
+
 .program-circle,
 .program-circle:hover {
     color: #{{ site.color.primary }};
