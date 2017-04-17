@@ -3,12 +3,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Host Organizations</h2>
+                    <h2 class="section-heading">About</h2>
                 </div>
             </div>
-            <div class="row">
+            <div class="row vertical-align">
                 {% for member in site.people %}
                 <div class="col-lg-6">
+                    <h2 class="section-subheading text-center">Host Organization</h2>
                     <div class="team-member">
                         <img src="img/team/{{ member.pic }}" class="img-responsive" alt="{{ member.pic }}">
                         <h4>{{ member.name }}</h4>
@@ -26,6 +27,10 @@
                     </div>
                 </div>
                 {% endfor %}
+                <div class="col-lg-6">
+                    <h2 class="section-subheading text-center">Contact</h2>
+                    <h3 class="section-subheading text-center">embeddedforher @ fsmk.org</h3>
+                </div>
             </div>
         <!--    <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
