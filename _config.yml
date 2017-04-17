@@ -1,9 +1,9 @@
 url: https://embedded-for-her.github.io
-baseurl: https://embedded-for-her.github.io/
+baseurl: https://embeddedforher.com/
 
 # Site settings
 title: Embedded for Her
-email: p@earthlord.io
+email: embeddedforher@fsmk.org
 description: "Embedded for Her is a skill development program in the field of embedded systems for women."
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -14,44 +14,27 @@ color:
 
 # Team names, titles and social links
 people:
-- name: WorkBench Projects
-  pic: WP.png
-  position: 
+- name: Free Software Movement Karnataka
+  pic: FSMK.png
+  position:
   social:
     - title: globe
-      url: http://workbenchprojects.com/
-    - title: facebook
-      url: https://www.facebook.com/workbenchprojects/
+      url: https://fsmk.org
     - title: twitter
-      url: https://twitter.com/makewithWP
-    - title: maxcdn
-      url: http://www.meetup.com/Workbench-Projects/
-
-- name: IoTBLR
-  pic: IoTBLR.png
-  position: 
-  social:
-    - title: globe
-      url: http://iotblr.org/
-    - title: facebook
-      url: https://www.facebook.com/groups/IoTBLR/
-    - title: twitter
-      url: https://twitter.com/IoTBLR
-    - title: maxcdn
-      url: http://www.meetup.com/IoTBLR/
+      url: https://twitter.com/fsmk_org
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: 
+    url:
   - title: facebook
     url:
   - title: stack-overflow
-    url: 
-  - title: bitbucket 
-    url: 
+    url:
+  - title: bitbucket
+    url:
   - title: github
-    url: 
+    url:
 
 # Postal address (add as many lines as necessary)
 address:
