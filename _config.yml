@@ -4,7 +4,7 @@ baseurl: https://embedded-for-her.github.io/
 # Site settings
 title: Embedded for Her
 email: embeddedforher@fsmk.org
-description: "Embedded for Her is a skill development program in the field of embedded systems for women."
+description: "Embedded for Her is a skill development program in the field of embedded systems for women, with a focus on free hardware and software."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
