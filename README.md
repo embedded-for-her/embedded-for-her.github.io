@@ -1,4 +1,4 @@
-Agency Jekyll theme
+Embedded for Her website based on Agency Theme for Jekyll
 ====================
 
 Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
