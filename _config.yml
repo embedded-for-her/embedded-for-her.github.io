@@ -1,6 +1,6 @@
 url: https://embedded-for-her.github.io
-baseurl: https://embedded-for-her.github.io/
-#baseurl: /embedded-for-her/
+#baseurl: https://embedded-for-her.github.io/
+baseurl: /embedded-for-her/
 
 
 # Site settings
@@ -17,7 +17,7 @@ color:
 # Team names, titles and social links
 people:
 - name: Free Software Movement Karnataka
-  pic: FSMK.png
+  pic: FSMK.svg
   position:
   social:
     - title: globe
