@@ -371,6 +371,14 @@ section#register .register-btn {
     text-align: center;
 }
 
+section#register .faq-btn {
+    margin-bottom: 75px;
+}
+
+section#register .faq-txt {
+    margin-bottom: 15px;
+}
+
 section#program .program-w {
     text-transform: uppercase;
     font-weight: 700;
