@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title> Help out | {{site.title}}</title>
+
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+	<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="../faq/css/reset.css"> <!-- CSS reset -->
+	<link rel="stylesheet" href="../faq/css/style.css"> <!-- Resource style -->
+	<script src="../faq/js/modernizr.js"></script> <!-- Modernizr -->
+	<!--[if lt IE 9]>
+	<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.2/html5shiv.js"></script>
+	<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+	<![endif]-->
+</head>
+<body>
+	<header>
+		<h1><a href="{{site.baseurl}}"> ← {{site.title}} Help out </a></h1>
+	</header>
+  <div class="apply-form">
+          <form class="form-horizontal" action="https://formspree.io/embeddedforher@fsmk.org" method="POST" data-toggle="validator">
+              <div class="form-group">
+                  <label for="name">Name</label>
+                  <input type="text" name="name" id="name" class="form-control" placeholder="Pappi" required>
+              </div>
+              <div class="form-group">
+                  <label for="email">Email ID</label>
+                  <input type="email" name="email" id="email" class="form-control" placeholder="pappi@longstocking.org" required>
+              </div>
+              <div class="form-group">
+              <label for="role">How do you see yourself contributing?</label>
+              <select class="form-control" id="form-control">
+                <option>As a speaker</option>
+                <option>As a volunteer</option>
+                <option>As a sponsor</option>
+                <option>I'm not sure</option>
+                </select>
+              </div>
+              <div class="form-group">
+                  <label for="mobile">Mobile Number</label>
+                  <input type="number" name="mobile" id="mobile" class="form-control" placeholder="12345 54321" required>
+              </div>
+              <div class="form-group">
+                  <label for="resume">Resume</label>
+                  <input type="url" name="resume" id="resume" class="form-control" placeholder="www.example.com/resume">
+              </div>
+              <button type="submit" class="btn btn-default">Submit</button>
+          </form>
+      </div>
+
+      <script src="../faq/js/jquery-2.1.1.js"></script>
+      <script src="../faq/js/jquery.mobile.custom.min.js"></script>
+      <script src="../faq/js/main.js"></script> <!-- Resource jQuery -->
+      </body>
+      </html>
