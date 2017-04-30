@@ -18,6 +18,7 @@ body {
   font-family: "Open Sans", sans-serif;
   color: #4e5359;
   background-color: #f3f3f5;
+  line-height: 24px;
 }
 body::after {
   /* overlay layer visible on small devices when the right panel slides in */
@@ -72,6 +73,16 @@ header h1 {
   font-weight: 700;
   font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
+
+.apply-form {
+margin: 10px auto;
+max-width: 500px;
+}
+
+.form-control {
+  height: 50px;
+}
+
 @media only screen and (min-width: 1024px) {
   header {
     height: 240px;
@@ -377,7 +388,7 @@ header h1 {
   position: relative;
   display: block;
   margin: 1.6em 0 .4em;
-  line-height: 1.2;
+  line-height: 24px;
 }
 @media only screen and (min-width: 768px) {
   .cd-faq-trigger {
@@ -438,7 +449,7 @@ header h1 {
 .cd-faq-content p {
   font-size: 14px;
   font-size: 0.875rem;
-  line-height: 1.4;
+  line-height: 24px;
   color: #6c7d8e;
 }
 @media only screen and (min-width: 768px) {
@@ -447,27 +458,41 @@ header h1 {
     padding: 0 24px 30px;
   }
   .cd-faq-content p {
-    line-height: 1.6;
+    line-height: 24px;
   }
   .no-js .cd-faq-content {
     display: block;
   }
-
-
-.apply-form {
-margin: 2em;
 }
 
+.apply-form {
+  margin: 15px auto;
+  max-width: 300px;
+}
 
+.form-control {
+}
 
+@media only screen and (min-width: 768px) {
+  .apply-form {
+    margin: 10px auto;
+    max-width: 500px;
+    }
 
+    .form-control {
+      height: 50px;
+    }
+}
 
+@media only screen and (min-width: 1024px) {
+  .apply-form {
+    margin: 10px auto;
+    max-width: 500px;
+    }
 
-
-
-
-
-
-
+    .form-control {
+      height: 50px;
+    }
+}
 
 }
