@@ -22,56 +22,61 @@
 		<h1><a href="{{site.baseurl}}"> ← {{site.title}} Apply </a></h1>
 	</header>
 
-    <div class="applyform">
+    <div class="apply-form">
         <form class="form-horizontal" action="https://formspree.io/embeddedforher@fsmk.org" method="POST" data-toggle="validator">
             <div class="form-group">
-                <label class="sr-only" for="name">Name</label>
-                <input type="text" name="name" id="name" class="form-control" placeholder="Name" required>
+                <label for="name">Name</label>
+                <input type="text" name="name" id="name" class="form-control" placeholder="Pappi" required>
             </div>
             <div class="form-group">
-                <label class="sr-only" for="email">Email ID</label>
-                <input type="email" name="email" id="email" class="form-control" placeholder="Email ID" required>
+                <label for="email">Email ID</label>
+                <input type="email" name="email" id="email" class="form-control" placeholder="pappi@longstocking.org" required>
             </div>
             <div class="form-group">
-                <label class="sr-only" for="mobile">Mobile Number</label>
-                <input type="number" name="mobile" id="mobile" class="form-control" placeholder="Mobile Number">
+                <label for="mobile">Mobile Number</label>
+                <input type="number" name="mobile" id="mobile" class="form-control" placeholder="12345 54321">
             </div>
             <div class="form-group">
-                <label class="sr-only" for="resume">Resume</label>
-                <input type="url" name="resume" id="resume" class="form-control" placeholder="Link to resume" required>
+                <label for="resume">Link to resume</label>
+                <input type="url" name="resume" id="resume" class="form-control" placeholder="example.com/resume" >
             </div>
+						<br>
             <!--    <div class="form-group">
             <label for="resume"> OR Upload your resume</label>
             <input type="file" id="resume">
             <p class="help-block">Example block-level help text here.</p>
         </div> -->
         <div class="form-group">
-            <label class="sr-only" for="tech-project">Describe briefly a technical project that you were involved in.</label>
-            <input type="textarea" name="tech-project" id="tech-project" class="form-control" placeholder="Describe briefly a technical project that you were involved in.">
-            <p class="help-block">What was the aim of the project? What was your contribution? What did your team achieve? (It's okay if you haven't done anything like this. You're still eligible.)</p>
+            <label for="tech-project">Describe briefly a technical project that you were involved in. What was the aim of the project? What was your contribution? What did your team achieve?</label>
+            <textarea name="tech-project" id="tech-project" class="form-control" placeholder="Enter text here."></textarea>
+						<p class="help-block">It's okay if you haven't done anything like this. You're still eligible.</p>
         </div>
         <div class="form-group">
-            <label class="sr-only" for="why-participate">Why do you want to participate in this program?</label>
-            <input type="textarea" name="why-participate" id="why-participate" class="form-control" placeholder="Why do you want to participate in this program?">
+            <label for="why-participate">Why do you want to participate in this program? What do you want to achieve from this program?</label>
+            <input type="textarea" name="why-participate" id="why-participate" class="form-control" placeholder="Enter text here.">
         </div>
         <div class="form-group">
-            <label class="sr-only" for="what-achieve">What do you want to achieve in this program?</label>
-            <input type="textarea" name="what-achieve" id="what-achieve" class="form-control" placeholder="What do you want to achieve in this program?">
+            <label for="what-project">Describe an embedded device that you want to build as a project.</label>
+            <input type="textarea" name="what-project" id="what-project" class="form-control" placeholder="Enter text here.">
+            <p class="help-block">We cannot assure you that you will build this device as your project in the program.</p>
         </div>
-        <div class="form-group">
-            <label class="sr-only" for="what-project">Describe an embedded device that you want to build as a project.</label>
-            <input type="textarea" name="what-project" id="what-project" class="form-control" placeholder="Describe an embedded device that you want to build as a project.">
-            <p class="help-block">We cannot assure you that you can build this device as your project in the program.</p>
+				<fieldset class="form-group">
+      <legend class="col-form-legend">This program will use a <a href="http://getgnulinux.org/en/linux/">GNU/Linux-based environment</a>. Are you comfortable with (learning and) using one on your machine?
+</legend>
+        <div class="form-check">
+          <label class="form-check-label">
+            <input class="form-check-input" type="radio" name="linux-env" value="yes-basic">Yes, I already use one.</label>
         </div>
-        <div class="radio">
-            <label>
-                <p class="help-block">This program will use a <a href="http://getgnulinux.org/en/linux/">GNU/Linux-based environment</a>. Are you comfortable with (learning and) using one on your machine? <br></p>
-                <input type="radio" name="linux-env" value="yes-basic"> Yes, I already use one. <br>
-                <input type="radio" name="linux-env" value="yes"> I haven't used one before but I am willing to try. <br>
-                <input type="radio" name="linux-env" value="no"> No, I prefer another environment.
-            </label>
+        <div class="form-check">
+          <label class="form-check-label">
+					<input class="form-check-input" type="radio" name="linux-env" value="yes">I haven't used one before but I am willing to try.</label>
+          </label>
         </div>
-        <p><br><i>A reminder that this program is only for women.</i></p>
+        <div class="form-check">
+          <label class="form-check-label">
+            <input class="form-check-input" type="radio" name="linux-env" value="no">No, I prefer another environment.</label>
+        </div>
+    </fieldset>
         <button type="submit" class="btn btn-default">Submit</button>
     </form>
 </div>
