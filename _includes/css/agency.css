@@ -89,7 +89,7 @@ h6 {
 }
 
 .btn-primary:active,
-.btn-primary.active,
+. -primary.active,
 .open .dropdown-toggle.btn-primary {
     background-image: none;
 }
@@ -296,6 +296,7 @@ header .intro-text .intro-lead-in {
     line-height: 22px;
     text-shadow: 0px 0px 20px #0A0A0A;
 }
+
 
 header .intro-text .intro-heading {
     margin-bottom: 25px;
@@ -918,4 +919,17 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #{{ site.color.primary }};
+}
+
+.apply-btn {
+  background-color: #4C177D;
+  margin-right: 15px;
+}
+
+.desc-line {
+margin-bottom: 40px;
+font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+font-size: 28px;
+font-style: italic;
+line-height: 36px;
 }
