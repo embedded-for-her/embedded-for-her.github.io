@@ -341,11 +341,11 @@ section h2.section-heading {
     font-size: 40px;
 }
 
-section h3.section-subheading {
+.  section-subheading {
     margin-bottom: 75px;
     text-transform: none;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 16px;
+    font-size: 20px;
     font-style: italic;
     font-weight: 400;
 }
@@ -930,5 +930,12 @@ margin-bottom: 40px;
 font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
 font-size: 28px;
 font-style: italic;
+line-height: 36px;
+}
+
+.sub-line {
+margin-bottom: 40px;
+font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+font-size: 22px;
 line-height: 36px;
 }
