@@ -24,7 +24,10 @@ people:
       url: https://fsmk.org
     - title: twitter
       url: https://twitter.com/fsmk_org
+    - title: discourse
+      url: https://discuss.fsmk.org
 
+      
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
