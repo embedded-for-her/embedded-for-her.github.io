@@ -176,7 +176,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #222;
+    background-color: #FFF;
 }
 
 .navbar-default .navbar-brand {
@@ -926,6 +926,7 @@ body {
 }
 
 .desc-line {
+margin-top: 100px;
 margin-bottom: 40px;
 font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
 font-size: 28px;
