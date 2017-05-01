@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg6135"
+   version="1.1"
+   viewBox="0 0 10.182406 10.59125"
+   height="10.591249mm"
+   width="10.182406mm">
+  <defs
+     id="defs6129" />
+  <metadata
+     id="metadata6132">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-10.704849,-11.13663)"
+     id="layer1">
+    <g
+       style="stroke-width:9.7986269"
+       transform="matrix(0.10205512,0,0,0.10205512,-310.48182,-132.41697)"
+       id="g7168">
+      <path
+         id="path5234"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:medium;line-height:77.53266144px;font-family:'Maven Pro';-inkscape-font-specification:'Maven Pro Heavy';letter-spacing:-9.26041698px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:2.5925529px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 3147.1882,1510.4078 v -103.7797 h 27.2086 v 15.4141 h -13.0428 v 72.8891 h 13.0428 v 15.4765 z" />
+      <path
+         id="path5236"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:medium;line-height:77.53266144px;font-family:'Maven Pro';-inkscape-font-specification:'Maven Pro Heavy';letter-spacing:-11.90625px;word-spacing:0px;fill:#7030b0;fill-opacity:1;stroke:none;stroke-width:2.59255314px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 3174.6136,1490.839 v -64.6421 h 45.0507 v 13.5814 h -28.3933 v 11.9252 h 24.6549 v 13.6288 h -24.6549 v 11.8306 h 28.3933 v 13.6761 z" />
+      <path
+         d="m 3246.9618,1510.4078 v -103.7797 h -27.2086 v 15.4141 h 13.0428 v 72.8891 h -13.0428 v 15.4765 z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:medium;line-height:77.53266144px;font-family:'Maven Pro';-inkscape-font-specification:'Maven Pro Heavy';letter-spacing:-9.26041698px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:2.5925529px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path5238" />
+    </g>
+  </g>
+</svg>
