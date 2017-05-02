@@ -1,0 +1,62 @@
+<!-- Register Section -->
+<section id="register">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Get Involved</h2>
+                <h3 class="section-subheading text-muted faq-txt">We would like motivated people passionate about embedded systems to be part of this program. Check the FAQ for more details.</h3>
+                <a href="{{site.baseurl}}faq" class="btn btn-xl faq-btn";>FAQ</a>
+            </div>
+        </div>
+        <div class="row text-center">
+            <div class="col-lg-6">
+                <h4 class="service-heading">Apply for the program</h4>
+                <p class="text-muted">Since there are limited spots in this program, please fill this form and we'll get back to you.</p>
+                <div class="register-btn">
+                    <a class="btn btn-xl" role="button" href="{{site.baseurl}}apply">Apply</a>
+                </div>
+        </div>
+        <div class="col-lg-6">
+            <h4 class="service-heading">Nominate a speaker/mentor</h4>
+            <p class="text-muted">Know someone who can be a speaker/mentor for this program, even yourself? Nominate her/him and we'll see how to get 'em on board.</p>
+            <div class="register-btn">
+                <a class="btn btn-xl" role="button" data-toggle="collapse" href="#apply-mentor" aria-expanded="false" aria-controls="collapseExample">Nominate</a>
+            </div>
+            <div class="collapse" id="apply-mentor"> <br>
+                <div class="well">
+                    <form class="form-horizontal" action="https://formspree.io/embeddedforher@fsmk.org" method="POST" data-toggle="validator">
+                        <div class="form-group">
+                            <label class="sr-only" for="your-name">Your name</label>
+                            <input type="text" name="your-name" id="your-name" class="form-control" placeholder="Your name" required>
+                        </div>
+                        <div class="form-group">
+                            <label class="sr-only" for="your-email">Your email ID</label>
+                            <input type="email" name="your-email" id="your-email" class="form-control" placeholder="Your email ID" required>
+                        </div>
+                        <div class="form-group">
+                            <label class="sr-only" for="mentor-name">Mentor's name</label>
+                            <input type="text" name="mentor-name" id="mentor-name" class="form-control" placeholder="Mentor's name" required>
+                        </div>
+                        <div class="form-group">
+                            <label class="sr-only" for="mentor-email">Mentor's email ID</label>
+                            <input type="email" name="mentor-email" id="mentor-email" class="form-control" placeholder="Mentor's email ID" required>
+                        </div>
+                        <div class="form-group">
+                            <label class="sr-only" for="mentor-mobile">Mentor's Mobile Number</label>
+                            <input type="number" name="mentor-mobile" id="mentor-mobile" class="form-control" placeholder="Mentor's Mobile Number">
+                        </div>
+                        <div class="form-group">
+                            <label class="sr-only" for="mentor-resume">Mentor's resume</label>
+                            <input type="url" name="mentor-resume" id="mentor-resume" class="form-control" placeholder="Link to mentor's resume">
+                        </div>
+                        <div class="form-group">
+                            <label class="sr-only" for="relationship">Relationship between yourself and proposed mentor</label>
+                            <input type="text" name="relationship" id="relationship" class="form-control" placeholder="Relationship between yourself and proposed mentor" required>
+                        </div>
+
+                        <button type="submit" class="btn btn-default">Submit</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
