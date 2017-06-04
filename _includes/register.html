@@ -13,8 +13,64 @@
                 <h4 class="service-heading">Apply for the program</h4>
                 <p class="text-muted">Since there are limited spots in this program, please fill this form and we'll get back to you.</p>
                 <div class="register-btn">
-                    <a class="btn btn-xl" role="button" href="{{site.baseurl}}apply">Apply</a>
+                    <a class="btn btn-xl" role="button" data-toggle="collapse" href="#apply-form" aria-expanded="false" aria-controls="collapseExample" >Apply</a>
                 </div>
+                <div class="collapse" id="apply-form"> <br>
+                    <div class="well">
+                        <form class="form-horizontal" action="https://formspree.io/embeddedforher@fsmk.org" method="POST" data-toggle="validator">
+                            <div class="form-group">
+                                <label class="sr-only" for="name">Name</label>
+                                <input type="text" name="name" id="name" class="form-control" placeholder="Name" required>
+                            </div>
+                            <div class="form-group">
+                                <label class="sr-only" for="email">Email ID</label>
+                                <input type="email" name="email" id="email" class="form-control" placeholder="Email ID" required>
+                            </div>
+                            <div class="form-group">
+                                <label class="sr-only" for="mobile">Mobile Number</label>
+                                <input type="number" name="mobile" id="mobile" class="form-control" placeholder="Mobile Number">
+                            </div>
+                            <div class="form-group">
+                                <label class="sr-only" for="resume">Resume</label>
+                                <input type="url" name="resume" id="resume" class="form-control" placeholder="Link to resume" required>
+                            </div>
+                            <!--    <div class="form-group">
+                            <label for="resume"> OR Upload your resume</label>
+                            <input type="file" id="resume">
+                            <p class="help-block">Example block-level help text here.</p>
+                        </div> -->
+                        <div class="form-group">
+                            <label class="sr-only" for="tech-project">Describe briefly a technical project that you were involved in.</label>
+                            <input type="textarea" name="tech-project" id="tech-project" class="form-control" placeholder="Describe briefly a technical project that you were involved in.">
+                            <p class="help-block">What was the aim of the project? What was your contribution? What did your team achieve? (It's okay if you haven't done anything like this. You're still eligible.)</p>
+                        </div>
+                        <div class="form-group">
+                            <label class="sr-only" for="why-participate">Why do you want to participate in this program?</label>
+                            <input type="textarea" name="why-participate" id="why-participate" class="form-control" placeholder="Why do you want to participate in this program?">
+                        </div>
+                        <div class="form-group">
+                            <label class="sr-only" for="what-achieve">What do you want to achieve in this program?</label>
+                            <input type="textarea" name="what-achieve" id="what-achieve" class="form-control" placeholder="What do you want to achieve in this program?">
+                        </div>
+                        <div class="form-group">
+                            <label class="sr-only" for="what-project">Describe an embedded device that you want to build as a project.</label>
+                            <input type="textarea" name="what-project" id="what-project" class="form-control" placeholder="Describe an embedded device that you want to build as a project.">
+                            <p class="help-block">We cannot assure you that you can build this device as your project in the program.</p>
+                        </div>
+                        <div class="radio">
+                            <label>
+                                <p class="help-block">This program will use a <a href="http://getgnulinux.org/en/linux/">GNU/Linux-based environment</a>. Are you comfortable with (learning and) using one on your machine? <br></p>
+                                <input type="radio" name="linux-env" value="yes-basic"> Yes, I already use one. <br>
+                                <input type="radio" name="linux-env" value="yes"> I haven't used one before but I am willing to try. <br>
+                                <input type="radio" name="linux-env" value="no"> No, I prefer another environment.
+                            </label>
+                        </div>
+                        <p><br><i>A reminder that this program is only for women.</i></p>
+                        <button type="submit" class="btn btn-default">Submit</button>
+                    </form>
+
+                </div>
+            </div>
         </div>
         <div class="col-lg-6">
             <h4 class="service-heading">Nominate a speaker/mentor</h4>
