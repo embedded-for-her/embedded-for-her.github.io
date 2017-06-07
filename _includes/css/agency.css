@@ -242,7 +242,7 @@ fieldset[disabled] .btn-xl.active {
     .navbar-default {
         padding: 25px 0;
         border: 0;
-        background-color: transparent;
+        background-color: #FFF;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
@@ -280,6 +280,17 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+}
+
+.background-header-pic {
+  background-attachment: scroll;
+  background-image: url(img/background_wp.jpg);
+  background-position: center center;
+  background-repeat: none;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
 }
 
 header .intro-text {
