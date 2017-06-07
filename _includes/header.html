@@ -36,19 +36,6 @@
         </div>
         <!-- /.container-fluid -->
     </nav>
-
-    <!-- Header -->
-
-    <header>
-<!--        <div class="container">
-            <div class="intro-text">
-                <div class="intro-lead-in">Excited about building an embedded product?</br> Eager to learn the fundamentals of Embedded Systems?</div>
-                <div class="intro-heading">Join <i>Embedded for Her</i></div>
-                <a href="#register" class="page-scroll btn btn-xl">Apply Now</a>  -->
-            </div>
-        </div>
-    </header>
         {% for page in site.pages %}
           {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
         {% endfor %}
- 
