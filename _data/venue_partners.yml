@@ -1,26 +1,47 @@
 - name: ONZE Technologies (I) Pvt Ltd
   pic: latlong.jpg
   web: https://latlong.in/
+  social:
+    - title: globe
+      url: https://latlong.in/
 
 - name: Workbench Projects Pvt. Ltd
   pic: WP-logo-black.jpg
   web: https://workbenchprojects.com/
+  social:
+    - title: globe
+      url: https://workbenchprojects.com/
 
-- name: Bangalore Alpha Lab (A division of Fresco Informatics Pvt. Ltd)
+- name: Bangalore Alpha Lab 
   pic: blore-alpha-lab.jpg
   web: http://bangalorealphalab.in/
+  social:
+    - title: globe
+      url: http://bangalorealphalab.in/
 
 - name: Black Pepper Technologies
   pic: BPT-Logo.jpg
   web: http://www.blackpeppertech.com/
+  social:
+    - title: globe
+      url: http://www.blackpeppertech.com/
 
 - name: HasGeek
   pic: hg-banner.jpg
   web: https://hasgeek.com/
-  twitter: https://twitter.com/hasgeek
+  social:
+    - title: globe
+      url: https://hasgeek.com/
+    - title: twitter
+      url: https://twitter.com/hasgeek
 
 - name: IKP Knowledge Park
   pic: IKP-final-logo.jpg
   web: https://ikpeden.com/
-  facebook: www.facebook.com/ikpeden
-  twitter: https://twitter.com/ikpeden
+  social:
+    - title: globe
+      url: https://ikpeden.com/
+    - title: facebook
+      url: www.facebook.com/ikpeden
+    - title: twitter
+      url: https://twitter.com/ikpeden

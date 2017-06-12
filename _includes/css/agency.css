@@ -378,7 +378,7 @@ section h2.section-heading {
 
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        /*padding: 150px 0;*/
     }
 }
 
@@ -822,7 +822,7 @@ footer ul.quicklinks {
 }
 
 ul.social-buttons {
-    margin-bottom: 0;
+    margin-top: 4px;
 }
 
 ul.social-buttons li a {

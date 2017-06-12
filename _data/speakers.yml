@@ -9,7 +9,13 @@
 - name: Prithvi Raj Narendra
   pic: speaker3.jpg
   desc:  Prithvi is a freelancer embedded systems engineer. Has experience of the entire product development cycle of a crowd-funded product. Currently working with tech for wildlife conservation.
+  social:
+    - title: globe
+      url: earthlord.io
 
 - name: Nirzaree Vadgama
   pic: speaker4.jpg
   desc: Nirzaree investigates novel sensing paradigms and algorithms for wearable tech focused towards cyclists at Lumos, a startup in Bangalore. She holds a master's degree in Electrical & Computer Engineering with a specialisation in Embedded Systems.  She loves science, travel and the environment.
+  social:
+    - title: globe
+      url: https://nirzaree.wordpress.com/
