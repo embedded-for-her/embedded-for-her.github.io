@@ -10,11 +10,13 @@
 .ruby-version
 .sass-cache
 .jekyll-metadata
+.gitignore
 /test/source/file_name.txt
 /vendor
 _config.yml
 Gemfile.lock
 _site/
+_config.yml
 bbin/
 coverage
 gh-pages/
