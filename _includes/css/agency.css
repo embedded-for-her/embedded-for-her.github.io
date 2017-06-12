@@ -245,7 +245,7 @@ fieldset[disabled] .btn-xl.active {
 
 @media(min-width:768px) {
     .navbar-default {
-        padding: 25px 0;
+        padding: 5px 0 15px 0;
         border: 0;
         background-color: #FFF;
         -webkit-transition: padding .3s;
@@ -254,6 +254,7 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default .navbar-brand {
+        padding: 15px 15px 20.5px;
         font-size: 2em;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
