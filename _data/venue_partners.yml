@@ -1,6 +1,6 @@
 - name: ONZE Technologies (I) Pvt Ltd
   pic: latlong.jpg
-  web: www.latlong.in
+  web: https://latlong.in/
 
 - name: Workbench Projects Pvt. Ltd
   pic: WP-logo-black.jpg
@@ -21,5 +21,6 @@
 
 - name: IKP Knowledge Park
   pic: IKP-final-logo.jpg
+  web: https://ikpeden.com/
   facebook: www.facebook.com/ikpeden
   twitter: https://twitter.com/ikpeden
